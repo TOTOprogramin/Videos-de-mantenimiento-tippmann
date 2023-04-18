@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("https://i.pinimg.com/originals/8f/c2/e5/8fc2e5760e95ada9b5ec22618f3aa857.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header {
+    padding: 10px;
+    margin: auto;
+    color: aliceblue;
+    text-align: center;
+    font-size: 35px;
+    background-color: rgb(13, 13, 13);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+/*Agrega margen superior al elemento que está debajo del header*/
+main {
+    margin-top: 250px;
+  }
+
+section {
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.video-container {
+    color: #ffff;
+
+}
+
+.video-container h3 {
+    padding: 20px;
+    font-size: 40px;
+    background-color: rgba(0, 0, 0, 0.512);
+}
+
+.video-wrapper {
+    text-align: center;
+}
+
+.titulo {
+    color: rgb(0, 255, 34);
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 40px;
+}
